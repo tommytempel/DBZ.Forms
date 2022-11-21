@@ -1,10 +1,13 @@
 #title{
-    color: black;
+    color: darkblue;
     background-color: orange;
+    width: 750px;
 }
 
 .titletext {
     font-size: 12px;
+    background-color: gray;
+    width: 100px;
 }
 
 #frieza {
@@ -12,6 +15,7 @@
     color: purple;
     font-family: 'Times New Roman', Times, serif;
     font-size: 24px;
+    width: 750px;
 }
 
 #zarbon {
@@ -19,6 +23,7 @@
     color: white;
     font-size: 24px;
     font-family: 'Times New Roman', Times, serif;
+    width: 750px;
 }
 
 #cell {
@@ -26,6 +31,7 @@
     color: purple;
     font-size: 24px;
     font-family: 'Times New Roman', Times, serif;
+    width: 750px;
 }
 
 #Goku {
@@ -33,4 +39,13 @@
     color: blue;
     font-size: 24px;
     font-family: 'Times New Roman', Times, serif;
+    width: 750px;
+}
+
+#Vegeta {
+    background-color: darkblue;
+    color: purple;
+    font-size: 24px;
+    font-family: 'Times New Roman', Times, serif;
+    width: 750px;
 }
