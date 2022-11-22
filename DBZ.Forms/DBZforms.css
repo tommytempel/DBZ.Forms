@@ -2,6 +2,9 @@
     color: darkblue;
     background-color: orange;
     width: 750px;
+    border: 50px;
+    border-style: groove;
+    border-color: darkblue;
 }
 
 .titletext {
@@ -51,7 +54,7 @@
     width: 750px;
     border: 50px;
     border-style: groove;
-    border-color: orange;
+    border-color: blue;
 }
 
 #Vegeta {
@@ -74,4 +77,15 @@
     border: 50px;
     border-style: groove;
     border-color: white;
+}
+
+#Gohan {
+    background-color: purple;
+    color: red;
+    font-size: 24px;
+    font-family: 'Times New Roman', Times, serif;
+    width: 750px;
+    border: 50px;
+    border-style: groove;
+    border-color: red;
 }
