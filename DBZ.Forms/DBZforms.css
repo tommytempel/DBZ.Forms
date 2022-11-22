@@ -16,6 +16,9 @@
     font-family: 'Times New Roman', Times, serif;
     font-size: 24px;
     width: 750px;
+    border: 50px;
+    border-style: groove;
+    border-color: purple;
 }
 
 #zarbon {
@@ -24,6 +27,9 @@
     font-size: 24px;
     font-family: 'Times New Roman', Times, serif;
     width: 750px;
+    border: 50px;
+    border-style: groove;
+    border-color: lightblue;
 }
 
 #cell {
@@ -32,6 +38,9 @@
     font-size: 24px;
     font-family: 'Times New Roman', Times, serif;
     width: 750px;
+    border: 50px;
+    border-style: groove;
+    border-color: green;
 }
 
 #Goku {
@@ -40,6 +49,9 @@
     font-size: 24px;
     font-family: 'Times New Roman', Times, serif;
     width: 750px;
+    border: 50px;
+    border-style: groove;
+    border-color: orange;
 }
 
 #Vegeta {
@@ -48,4 +60,18 @@
     font-size: 24px;
     font-family: 'Times New Roman', Times, serif;
     width: 750px;
+    border: 50px;
+    border-style: groove;
+    border-color: darkblue;
+}
+
+#Roshi {
+    background-color: orange;
+    color: white;
+    font-size: 24px;
+    font-family: 'Times New Roman', Times, serif;
+    width: 750px;
+    border: 50px;
+    border-style: groove;
+    border-color: white;
 }
