@@ -17,16 +17,6 @@
     margin-bottom: 8px;
 }
   
-#zarbon {
-    background-color: lightblue;
-    color: white;
-    font-size: 24px;
-    font-family: 'Times New Roman', Times, serif;
-    width: 750px;
-    border: 50px;
-    border-style: groove;
-    border-color: lightblue;
-}
 
 #cell {
     background-color: green;

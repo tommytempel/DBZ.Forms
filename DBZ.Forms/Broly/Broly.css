@@ -3,16 +3,24 @@
 body {
     font-style: italic;
     font-size: 24px;
+    width: 750px;
     border: 50px;
     border-style: groove;
     border-color: green;
     flex: 1 1 auto;
+}
+.title  {
+    background-color: black;
+    color: yellow;
+    display: flex;
+    justify-content: center;
 }
 
 .container {
     background-color: black;
     color: yellow;
     display: flex;
+    justify-content: center;
 }
 .text {
     display: flex;
