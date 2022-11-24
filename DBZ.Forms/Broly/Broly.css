@@ -1,0 +1,36 @@
+/*Will use flex to display information regarding broly.*/ 
+
+body {
+    font-style: italic;
+    font-size: 24px;
+    border: 50px;
+    border-style: groove;
+    border-color: green;
+    flex: 1 1 auto;
+}
+
+.container {
+    background-color: black;
+    color: yellow;
+    display: flex;
+}
+.text {
+    display: flex;
+    gap: 25px;
+    background-color: black;
+    flex-wrap: wrap;
+    margin-bottom: 100px;
+}
+
+.p {
+    flex-wrap: wrap;
+    background-color: black;
+    color: yellow;
+    display: flex;
+    justify-content: center;
+}
+
+.img   {
+    width: 132px;
+    height: 381px;
+}

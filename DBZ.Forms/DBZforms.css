@@ -5,25 +5,18 @@
     border: 50px;
     border-style: groove;
     border-color: darkblue;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
 }
 
 .titletext {
     font-size: 12px;
     background-color: gray;
     width: 100px;
+    margin-bottom: 8px;
 }
-
-#frieza {
-    background-color: black;
-    color: purple;
-    font-family: 'Times New Roman', Times, serif;
-    font-size: 24px;
-    width: 750px;
-    border: 50px;
-    border-style: groove;
-    border-color: purple;
-}
-
+  
 #zarbon {
     background-color: lightblue;
     color: white;
