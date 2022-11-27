@@ -1,74 +1,33 @@
-#title{
-    color: darkblue;
-    background-color: orange;
-    width: 750px;
-    border: 50px;
-    border-style: groove;
-    border-color: darkblue;
-    display: flex;
-    flex-wrap: wrap;
-    flex-direction: row;
-}
-
-.titletext {
-    font-size: 12px;
-    background-color: gray;
-    width: 100px;
-    margin-bottom: 8px;
-}
-  
-
-#cell {
-    background-color: green;
-    color: purple;
-    font-size: 24px;
-    font-family: 'Times New Roman', Times, serif;
-    width: 750px;
-    border: 50px;
-    border-style: groove;
-    border-color: green;
-}
-
-#Goku {
-    background-color: orange;
-    color: blue;
-    font-size: 24px;
-    font-family: 'Times New Roman', Times, serif;
-    width: 750px;
-    border: 50px;
-    border-style: groove;
-    border-color: blue;
-}
-
-#Vegeta {
+body {
     background-color: darkblue;
-    color: purple;
-    font-size: 24px;
-    font-family: 'Times New Roman', Times, serif;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
     width: 750px;
-    border: 50px;
-    border-style: groove;
-    border-color: darkblue;
 }
 
-#Roshi {
+.h1 {
     background-color: orange;
-    color: white;
-    font-size: 24px;
-    font-family: 'Times New Roman', Times, serif;
-    width: 750px;
-    border: 50px;
-    border-style: groove;
-    border-color: white;
+    color: darkblue;
+    display: flex;
+    justify-content: center;
 }
 
-#Gohan {
-    background-color: purple;
-    color: red;
-    font-size: 24px;
-    font-family: 'Times New Roman', Times, serif;
+.container {
+    display: flex;
+    background-color: orange;
     width: 750px;
-    border: 50px;
-    border-style: groove;
-    border-color: red;
+    height: 750px;
+    justify-content: left;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+    .container1 {
+        display: flex;
+        justify-content: center;
+    }
+
+.img {
+    width: 103px;
+    height: 137px;
 }
