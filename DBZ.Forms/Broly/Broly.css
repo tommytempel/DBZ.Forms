@@ -1,44 +1,29 @@
-/*Will use flex to display information regarding broly.*/ 
-
 body {
-    font-style: italic;
-    font-size: 24px;
-    width: 750px;
-    border: 50px;
-    border-style: groove;
-    border-color: green;
-    flex: 1 1 auto;
-}
-.title  {
     background-color: black;
     color: yellow;
     display: flex;
     justify-content: center;
+    align-items: center;
+    flex-direction: column;
 }
 
 .container {
-    background-color: black;
-    color: yellow;
     display: flex;
+    flex-direction: row;
     justify-content: center;
 }
-.text {
+.Broly {
     display: flex;
-    gap: 25px;
-    background-color: black;
-    flex-wrap: wrap;
-    margin-bottom: 100px;
-}
-
-.p {
-    flex-wrap: wrap;
-    background-color: black;
-    color: yellow;
-    display: flex;
+    width: 500px;
+    height: 500px;
+    background-color: green;
     justify-content: center;
+    flex-direction: column;
+    margin: 25px;
+    
 }
 
-.img   {
-    width: 132px;
-    height: 381px;
+.img {
+    width: 250px;
+    height: 250px;
 }
