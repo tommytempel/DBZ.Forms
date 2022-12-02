@@ -8,3 +8,6 @@ I have added Flex to the mainpage of my DBZ Charecters and their forms. I will g
 
 11/27/2022:
 I have added Majin Buu to my list of charecters. 
+
+12/01/2022:
+Setting up Rock-Paper-Scissors in Goku's page.
