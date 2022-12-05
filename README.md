@@ -11,3 +11,6 @@ I have added Majin Buu to my list of charecters.
 
 12/01/2022:
 Setting up Rock-Paper-Scissors in Goku's page.
+
+12/04/2022:
+Added all of Goku's Forms to his page. Made some edits using Flex in Vegeta's profile. Will need to re-add the rest of Vegeta's forms at a leter time. 
