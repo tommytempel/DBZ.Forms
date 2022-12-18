@@ -18,3 +18,8 @@ Added all of Goku's Forms to his page. Made some edits using Flex in Vegeta's pr
 
 12/05/2022:
 Added descriptions to Frieza's transformations. Added the rest of Vegeta's transformations. Still trying to get a picture of Evil Buu on his page but it is not working as of now. 
+
+12/14/2022:
+Soruces: https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.kotaku.com.au%2F2015%2F08%2Fdragon-ball-family-portraits%2F&psig=AOvVaw3mlQrzD_hL22ZR-rxIbSHV&ust=1671170070115000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCPikwuX3-vsCFQAAAAAdAAAAABAF
+
+Changed main page. 
