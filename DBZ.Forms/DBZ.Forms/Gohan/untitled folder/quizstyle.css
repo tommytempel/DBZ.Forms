@@ -1,0 +1,18 @@
+body {
+    background-color: maroon;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: column;
+}
+
+#container {
+    background-color: gainsboro;
+    display: flex;
+    width: 650px;
+    height: 650px;
+    border: 50px;
+    border-style:inset;
+    border-color: maroon;
+    margin-top: 50px;
+}
