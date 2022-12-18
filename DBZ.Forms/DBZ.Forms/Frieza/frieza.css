@@ -1,0 +1,22 @@
+#frieza {
+    background-color: black;
+    color: purple;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 24px;
+    font-style: italic;
+    border: 50px;
+    border-style: groove;
+    border-color: purple;
+    display: flex;
+    flex: 1 1 auto;
+    }
+    
+    .friezatext {
+       font-style: normal;  
+       margin-bottom: 24px;  
+    }
+
+    .container{
+        display: flex;
+        flex-direction: row;
+    }
