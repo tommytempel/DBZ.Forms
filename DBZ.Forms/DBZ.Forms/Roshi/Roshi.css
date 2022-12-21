@@ -1,0 +1,42 @@
+body {
+    background-color: blueviolet;
+    display: flex;
+    flex-direction: column;
+    flex: 1 1 auto;
+}
+
+.container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.h1 {
+    display: flex;
+    justify-content: center;
+    font-style: italic;
+}
+
+.Roshi {
+    width: 500px;
+    height: 500px;
+    background-color: orange;
+    margin: 50px;
+    display: flex;
+    flex-direction: column;
+    flex: 1 1 auto;
+}
+    .roshi1 {
+        display: flex;
+        justify-content: center;
+    }
+
+    .img {
+        width: 250px;
+        height: 250px;
+    }
+
+.text {
+    font-size: 24px;
+}
+

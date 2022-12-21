@@ -1,0 +1,49 @@
+body {
+    background-color: green;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+    .header {
+        display: flex;
+        justify-content: center;
+    }
+.container{
+    display: flex;
+    flex-direction: row;
+}
+.box {
+    border: 25px;
+    border-style: groove;
+    height: 450px;
+    width: 550px;
+    background-color: lightblue;
+    display: flex;
+    flex-direction: row;
+    margin-right: 50px;
+}
+    .folds {
+
+    }
+
+    .innerfold {
+        display: flex;
+        flex-direction: row;
+        font-size: 24px;
+    }
+
+p {
+    margin-left: 25px;
+}
+
+.also {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.buttons {
+    display: flex;
+    flex-direction: row;
+}
